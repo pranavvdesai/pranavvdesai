@@ -35,9 +35,6 @@
 </p>
 
 
-<p align="center">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="" height="30" width="30" /></a>&nbsp;
-<a href="https://linkedin.com/" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="" height="30" width="30" /></a>&nbsp;
 
 
 ---
@@ -55,3 +52,13 @@
 
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
+
+
+
+
+
+
+<p align="center">
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="" height="30" width="30" /></a>&nbsp;
+<a href="https://linkedin.com/" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="" height="30" width="30" /></a>&nbsp;
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="" height="30" width="30" /></a>&nbsp;
