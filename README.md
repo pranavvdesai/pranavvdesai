@@ -59,6 +59,6 @@
 
 
 <p align="center">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="" height="30" width="30" /></a>&nbsp;
-<a href="https://linkedin.com/" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="" height="30" width="30" /></a>&nbsp;
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="" height="30" width="30" /></a>&nbsp;
+<a href="https://twitter.com/PranavvvDesai" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="" height="30" width="30" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/pranav-desai-88740b1b5/" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="" height="30" width="30" /></a>&nbsp;
+<a href="mailto: pranavdesai.psd@gmail.com" target="blank"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="" height="30" width="30" /></a>&nbsp;
