@@ -13,6 +13,10 @@
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Ich kann ein bisschen Deutsch
 
+
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">Worked with:
+
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="85" height="60"/> 
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="android" width="55" height="55"/>
