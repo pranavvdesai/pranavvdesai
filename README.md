@@ -31,6 +31,11 @@
       <img src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg" alt="nodemon" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="mongodb" width="65" height="65"/> 
+       <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="mongodb" width="65" height="65"/> 
+       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="mongodb" width="65" height="65"/> 
+       <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="mongodb" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/js_discord/js_discord-icon.svg" alt="mongodb" width="65" height="65"/> 
       
 </p>
 
