@@ -1,9 +1,9 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi there!
 
 
 ![](https://media.giphy.com/media/zDuStFVpRJIZ2/giphy.gif)
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
+### About Me:
 - 💻 I'm a Web Developer from India
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 Pursuing Information Technology from VIT, Vellore .
@@ -15,7 +15,7 @@
 
 
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="45px"> Worked with:
+### Worked with:
 
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="85" height="60"/> 
@@ -43,7 +43,7 @@
 
 
 ---
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
+### My Github Stats:
 ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavvdesai&count_private=true&show_icons=true&theme=radical
 )
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavvdesai&layout=compact&theme=radical)](https://github.com/pranavvdesai/github-readme-stats)
@@ -55,7 +55,7 @@
 
 ---
 
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Here's some humor for you:
+### Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
 
 
